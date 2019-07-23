@@ -1,0 +1,17 @@
+{
+  "name": "ios-prevent-thirdparty-keyboard",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "ios-prevent-thirdparty-keyboard",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
