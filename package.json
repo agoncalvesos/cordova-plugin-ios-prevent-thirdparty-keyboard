@@ -1,9 +1,9 @@
 {
-  "name": "ios-prevent-thirdparty-keyboard",
+  "name": "cordova-plugin-ios-prevent-thirdparty-keyboard",
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "ios-prevent-thirdparty-keyboard",
+    "id": "cordova-plugin-ios-prevent-thirdparty-keyboard",
     "platforms": [
       "ios"
     ]
